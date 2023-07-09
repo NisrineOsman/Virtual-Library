@@ -40,6 +40,7 @@ Un administrateur est le bibliothécaire qui est responsable de visualiser les d
 
 
 	Client qui est responsable d'effectuer les opérations suivantes:
+
 •	Authentifier au système
 
 •	Pouvoir rechercher un livre en particulier
@@ -67,7 +68,7 @@ Un administrateur est le bibliothécaire qui est responsable de visualiser les d
 
 •	Nom
 
-•	prénom
+•	Prénom
 
 •	Téléphone
 
@@ -81,7 +82,7 @@ Un administrateur est le bibliothécaire qui est responsable de visualiser les d
 
 •	Nom 
 
-•	prénom
+•	Prénom
 
 •	Username
 
