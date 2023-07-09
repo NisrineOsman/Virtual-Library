@@ -8,7 +8,7 @@ Cette librairie contient  des livres de plusieurs catégories :
 •	Des livres politiques….
 Un administrateur est le bibliothécaire qui est responsable de visualiser les différents livres, d’ajouter des livres, aussi connaitre les réservations effectués  par les clients, et visualiser leurs calendriers. Les clients par  leurs tours effectuent toutes les opérations des réservations d'un livre. 
 
-1. Les utilisateurs du système sont:
+# 1. Les utilisateurs du système sont:
 
 	Administrateur qui est responsable d’effectuer toutes les opérations suivantes :
 •	Authentifier au système 
@@ -24,7 +24,6 @@ Un administrateur est le bibliothécaire qui est responsable de visualiser les d
 •	Accéder a un dossier complet sur le calendrier de réservation des livres
 
 
-
 	Client qui est responsable d'effectuer les opérations suivantes:
 •	Authentifier au système
 •	Pouvoir rechercher un livre en particulier
@@ -37,47 +36,47 @@ Un administrateur est le bibliothécaire qui est responsable de visualiser les d
 •	Voir la liste des livres disponibles dans chaque catégorie
 •	Pouvoir posséder un compte dans la bibliothèque
 
-2. Les objets manipulés :
+# 2. Les objets manipulés :
 
  Administrateur  
-o	id
-o	Nom
-o	prénom
-o	Téléphone
-o	Username
-o	Password
+•	id
+•	Nom
+•	prénom
+•	Téléphone
+•	Username
+•	Password
 
  Client 
-o	Id 
-o	Nom 
-o	prénom
-o	Username
-o	Password
+•	Id 
+•	Nom 
+•	prénom
+•	Username
+•	Password
 
  Livre
-o	Id 
-o	Nom
-o	Catégorie
-o	Nom de l'auteur
-o	Quantité de livre
-o	Edition
-o	Publisher
-o	Etat
+•	Id 
+•	Nom
+•	Catégorie
+•	Nom de l'auteur
+•	Quantité de livre
+•	Edition
+•	Publisher
+•	Etat
 
 Catégorie
-o	Id 
-o	Nom
-o	List de livre
+•	Id 
+•	Nom
+•	List de livre
 
  Emprunte
-o	Id
-o	Id_Client
-o	Id_Livre
-o	Date d’emprunte
-o	Date prévue
+•	Id
+•	Id_Client
+•	Id_Livre
+•	Date d’emprunte
+•	Date prévue
 
  Réservation
-o	Id
-o	Id_Client
-o	Id_Livre
-o	Date de réservation
+•	Id
+•	Id_Client
+•	Id_Livre
+•	Date de réservation
